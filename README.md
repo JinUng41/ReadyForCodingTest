@@ -1,2 +1,11 @@
 # TIL
-Today I Learned~ 더 나은 개발자가 되기 위해 기록하는 습관
+Today I Learned~
+
+<br>
+
+> **반드시 하루동안 배운 것을 어떠한 내용이라도 적어 기록하자**
+
+<br>
+
+### Swift
+[🤔왜 암시적 추출 옵셔널(IUO 타입)은 일반적인 변수처럼 사용할 수 있을까?](https://github.com/JinUng41/TIL/issues/1)
