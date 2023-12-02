@@ -18,4 +18,13 @@
 
 ## 백준
 
+<br>
+
 ### 분리집합
+- Silver
+
+[9372번: 상근이의 여행](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/4/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.md)
+
+- Gold
+
+[1976번: 여행 가자](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/4/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.md)
