@@ -34,3 +34,5 @@
 - [9372번: 상근이의 여행](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/4/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.md)   
 - [1976번: 여행 가자](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/4/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.md)   
 - [1717번: 집합의 표현](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/5/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md)   
+- [24391번: 귀찮은 해강이](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/5/%EA%B7%80%EC%B0%AE%EC%9D%80%20%ED%95%B4%EA%B0%95%EC%9D%B4.md)   
+
