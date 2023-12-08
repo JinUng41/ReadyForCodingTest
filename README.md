@@ -18,6 +18,8 @@
 
 ## 백준
 
+### 브루트포스
+- [2702번: 초6 수학](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/bronze/2/%EC%B4%886%20%EC%88%98%ED%95%99.md)   
 ### 이분 탐색
 - [10815번: 숫자 카드](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.md)   
 - [2776번: 암기왕](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/4/%EC%95%94%EA%B8%B0%EC%99%95.md)   
