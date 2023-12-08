@@ -23,6 +23,7 @@
 ### 이분 탐색
 - [10815번: 숫자 카드](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.md)   
 - [2776번: 암기왕](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/4/%EC%95%94%EA%B8%B0%EC%99%95.md)   
+- [7795번: 먹을 것인가 먹힐 것인가](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/3/%EB%A8%B9%EC%9D%84%20%EA%B2%83%EC%9D%B8%EA%B0%80%20%EB%A8%B9%ED%9E%90%20%EA%B2%83%EC%9D%B8%EA%B0%80.md)   
 - [1072번: 게임](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/3/%EA%B2%8C%EC%9E%84(1072%EB%B2%88).md)   
 
 ### 힙(우선순위 큐)
