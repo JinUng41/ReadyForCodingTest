@@ -40,3 +40,5 @@
 - [1717번: 집합의 표현](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/5/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.md)   
 - [24391번: 귀찮은 해강이](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/5/%EA%B7%80%EC%B0%AE%EC%9D%80%20%ED%95%B4%EA%B0%95%EC%9D%B4.md)   
 - [1043번: 거짓말](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/4/%EA%B1%B0%EC%A7%93%EB%A7%90.md)   
+
+### Dynamic Programming (동적 계획법)
