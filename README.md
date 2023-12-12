@@ -42,3 +42,5 @@
 - [1043번: 거짓말](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/gold/4/%EA%B1%B0%EC%A7%93%EB%A7%90.md)   
 
 ### Dynamic Programming (동적 계획법)
+
+- [16395번: 파스칼의 삼각형](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)   
