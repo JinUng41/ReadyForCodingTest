@@ -44,3 +44,7 @@
 ### Dynamic Programming (동적 계획법)
 
 - [16395번: 파스칼의 삼각형](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%9D%98%20%EC%82%BC%EA%B0%81%ED%98%95.md)   
+
+### DFS & BFS (깊이 & 너비 우선 탐색)
+
+- [2606번: 바이러스](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/3/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4(2606%EB%B2%88).md)   
