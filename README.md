@@ -48,3 +48,4 @@
 ### DFS & BFS (깊이 & 너비 우선 탐색)
 
 - [2606번: 바이러스](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/3/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4(2606%EB%B2%88).md)   
+- [11724번: 연결 요소의 개수](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/2/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98(11724%EB%B2%88).md)      
