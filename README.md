@@ -21,6 +21,9 @@
 ### 브루트포스
 - [2702번: 초6 수학](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/bronze/2/%EC%B4%886%20%EC%88%98%ED%95%99.md)   
 - [2798번: 블랙잭](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/bronze/2/%EB%B8%94%EB%9E%99%EC%9E%AD.md)   
+
+### 그리디
+- [14916번: 거스름돈](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.md)   
 - [1874번: 스택 수열](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/2/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.md)   
 ### 큐
 - [11866번: 요세푸스 문제 0](https://github.com/JinUng41/ReadyForCodingTest/blob/main/baekjoon/silver/5/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%200.md)   
